@@ -24,9 +24,9 @@
 
 ## Try It Live
 
-**[https://yourusername.github.io/HabitFlow](https://yourusername.github.io/HabitFlow)**
+**[https://jozesfbc-code.github.io/HabitFlow](https://jozesfbc-code.github.io/HabitFlow)**
 
-Replace `yourusername` with your actual GitHub username after forking and deploying.
+Replace `jozesfbc-code` with your actual GitHub username after forking and deploying.
 
 ---
 
@@ -127,7 +127,7 @@ HabitFlow/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/HabitFlow.git
+git clone https://github.com/jozesfbc-code/HabitFlow.git
 cd HabitFlow
 
 # Install .NET tools (Fable compiler)
@@ -174,7 +174,7 @@ This project is configured for automatic deployment to **GitHub Pages** via GitH
 3. Set **Source** to "GitHub Actions"
 4. Push to the `main` branch — the workflow will build and deploy automatically
 
-Your app will be available at `https://yourusername.github.io/HabitFlow`
+Your app will be available at `https://jozesfbc-code.github.io/HabitFlow`
 
 ---
 
